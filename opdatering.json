@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.1.0/bv-etiket-app-1.1.0.zip",
-  "sha256": "528fade9348ef82796d396d4db689111df6afbb51d01cf0cce5cc31b1c875268",
-  "noter": "Felt A er sat stoerre, som i designoplaegget"
+  "version": "1.1.1",
+  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.1.1/bv-etiket-app-1.1.1.zip",
+  "sha256": "5b56119dc779aa36fe3d570354571b505c3177b3c19c0259b37816278195894e",
+  "noter": "Programmet spoerger nu om operatoernummeret i browseren i stedet for at naegte at starte"
 }
