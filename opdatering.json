@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.5.0/bv-etiket-app-1.5.0.zip",
-  "sha256": "c11218137de7be11737a4b04032fa875fee619741f24e4cfbb5203c3e474a1ec",
-  "noter": "Printeren faar besked om stanset rulle, og der er en kalibreringsknap"
+  "version": "1.6.0",
+  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.6.0/bv-etiket-app-1.6.0.zip",
+  "sha256": "9fe620750ef82e4467bbcd268a57f82c4ae0c733ee06c9a29990e750054f7b28",
+  "noter": "Trykkvalitet: fart og varme kan nu stilles under Printer. Standard sat efter resinbaand paa ZD621."
 }
