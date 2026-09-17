@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.4.0/bv-etiket-app-1.4.0.zip",
-  "sha256": "699b3739f5f033597bb7479a9467f42e93fa00defbf3b443e01039b5fe380ac3",
-  "noter": "Adgangsnoeglen kan saettes i brugerfladen"
+  "version": "1.4.1",
+  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.4.1/bv-etiket-app-1.4.1.zip",
+  "sha256": "5f8d5edf35496467c948ec2841e48d29ccc945fd6bd754b3e98aee999bb9ecda",
+  "noter": "En gammel config kan ikke laengere strande maskinen"
 }
