@@ -1,6 +1,6 @@
 {
-  "version": "1.6.1",
-  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.6.1/bv-etiket-app-1.6.1.zip",
-  "sha256": "aa7c7287fcf7770b2e95640db00d0bf7533c2150faf9ff3a7de472ed54a69ab9",
-  "noter": "Rettet printtiderne i hjaelpeteksten."
+  "version": "1.6.2",
+  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.6.2/bv-etiket-app-1.6.2.zip",
+  "sha256": "ebb9e59884e8300426677573d526ae3635110eef94fdacf50ca9348234c10329",
+  "noter": "Advarslen om varme peger nu paa teksten, der gaar i stykker foerst - ikke paa stregkoden, der er etikettens mest robuste detalje."
 }
