@@ -1,6 +1,6 @@
 {
-  "version": "1.3.0",
-  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.3.0/bv-etiket-app-1.3.0.zip",
-  "sha256": "ceea1db7786b1462756713f3b1bba87dfa45e623b212dca0238757395f3f0cf9",
-  "noter": "Produktdatabasen hentes selv, og fejl sendes automatisk"
+  "version": "1.4.0",
+  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.4.0/bv-etiket-app-1.4.0.zip",
+  "sha256": "699b3739f5f033597bb7479a9467f42e93fa00defbf3b443e01039b5fe380ac3",
+  "noter": "Adgangsnoeglen kan saettes i brugerfladen"
 }
