@@ -1,6 +1,6 @@
 {
-  "version": "1.6.0",
-  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.6.0/bv-etiket-app-1.6.0.zip",
-  "sha256": "9fe620750ef82e4467bbcd268a57f82c4ae0c733ee06c9a29990e750054f7b28",
-  "noter": "Trykkvalitet: fart og varme kan nu stilles under Printer. Standard sat efter resinbaand paa ZD621."
+  "version": "1.6.1",
+  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.6.1/bv-etiket-app-1.6.1.zip",
+  "sha256": "aa7c7287fcf7770b2e95640db00d0bf7533c2150faf9ff3a7de472ed54a69ab9",
+  "noter": "Rettet printtiderne i hjaelpeteksten."
 }
