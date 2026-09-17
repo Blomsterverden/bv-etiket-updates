@@ -1,6 +1,6 @@
 {
-  "version": "1.4.1",
-  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.4.1/bv-etiket-app-1.4.1.zip",
-  "sha256": "5f8d5edf35496467c948ec2841e48d29ccc945fd6bd754b3e98aee999bb9ecda",
-  "noter": "En gammel config kan ikke laengere strande maskinen"
+  "version": "1.4.2",
+  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.4.2/bv-etiket-app-1.4.2.zip",
+  "sha256": "a9727a45604ef7758f948784d5392978c99e6e19f01c4c3f5cf98955dd5f47fa",
+  "noter": "Zebras nyere drivernavn markeres nu ogsaa som anbefalet"
 }
