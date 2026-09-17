@@ -1,6 +1,6 @@
 {
-  "version": "1.4.2",
-  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.4.2/bv-etiket-app-1.4.2.zip",
-  "sha256": "a9727a45604ef7758f948784d5392978c99e6e19f01c4c3f5cf98955dd5f47fa",
-  "noter": "Zebras nyere drivernavn markeres nu ogsaa som anbefalet"
+  "version": "1.5.0",
+  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.5.0/bv-etiket-app-1.5.0.zip",
+  "sha256": "c11218137de7be11737a4b04032fa875fee619741f24e4cfbb5203c3e474a1ec",
+  "noter": "Printeren faar besked om stanset rulle, og der er en kalibreringsknap"
 }
