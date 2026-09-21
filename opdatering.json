@@ -1,6 +1,6 @@
 {
-  "version": "1.6.2",
-  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.6.2/bv-etiket-app-1.6.2.zip",
-  "sha256": "ebb9e59884e8300426677573d526ae3635110eef94fdacf50ca9348234c10329",
-  "noter": "Advarslen om varme peger nu paa teksten, der gaar i stykker foerst - ikke paa stregkoden, der er etikettens mest robuste detalje."
+  "version": "1.7.0",
+  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.7.0/bv-etiket-app-1.7.0.zip",
+  "sha256": "8725499989b05621b76cc0b2b7aee337706fbade6a3eb7d2fb164e193a645b63",
+  "noter": "Sorterne vises nu under deres handelsnavn i stedet for foraedlerens kode. 'Hot Chocolate' stod som 'Haopr012'."
 }
