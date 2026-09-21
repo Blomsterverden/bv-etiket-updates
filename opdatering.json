@@ -1,6 +1,6 @@
 {
-  "version": "1.7.1",
-  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.7.1/bv-etiket-app-1.7.1.zip",
-  "sha256": "4fc8e19e58e41f3619c775c9b9610908e588873730d71456abd4487b12f6eb8f",
-  "noter": "Adgangsnoeglen kan nu saettes og afproeves i programmet, og synkroniseringens tilstand staar fremme i stedet for at vaere tavs."
+  "version": "1.7.2",
+  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.7.2/bv-etiket-app-1.7.2.zip",
+  "sha256": "81f1d3b5e0edea18d262175505b8cb377c543b2b985d13a0aca3e3fd93b7f47b",
+  "noter": "Maskiner sat op foer synkroniseringen fandtes faar nu adresserne indbygget, saa noeglen kan tages i brug."
 }
