@@ -1,6 +1,6 @@
 {
-  "version": "1.7.5",
-  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.7.5/bv-etiket-app-1.7.5.zip",
-  "sha256": "5a3042c20f571b209df770790804e66a7d95cfd2227bf5cad2eb505a1e1a8b51",
-  "noter": "Stauderne er kommet med: 48 kan printes, 2 afventer artsnavn. Sortsnavne med apostrof vises rigtigt i listen."
+  "version": "1.7.6",
+  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.7.6/bv-etiket-app-1.7.6.zip",
+  "sha256": "e95f21bdc5c40bd51a84cf6c1ee9d048335f714793dcfc2c652219beec882b47",
+  "noter": "Etikettens navnelinje er nu latinsk slaegt + sort, saa den forstaas ens i Danmark, Sverige og Finland."
 }
