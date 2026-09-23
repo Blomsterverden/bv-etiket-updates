@@ -1,6 +1,6 @@
 {
-  "version": "1.7.4",
-  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.7.4/bv-etiket-app-1.7.4.zip",
-  "sha256": "601778d71e55f9b2d190f1af822fc3beba3939338a085b8c0c6b8919f781f2e9",
-  "noter": "Felt A: sorten skaeres fra ved foerste apostrof, saa sortsnavne med apostrof i ('Walker's Low') haandteres rigtigt."
+  "version": "1.7.5",
+  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.7.5/bv-etiket-app-1.7.5.zip",
+  "sha256": "5a3042c20f571b209df770790804e66a7d95cfd2227bf5cad2eb505a1e1a8b51",
+  "noter": "Stauderne er kommet med: 48 kan printes, 2 afventer artsnavn. Sortsnavne med apostrof vises rigtigt i listen."
 }
