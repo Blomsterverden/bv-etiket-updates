@@ -1,6 +1,6 @@
 {
-  "version": "1.7.2",
-  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.7.2/bv-etiket-app-1.7.2.zip",
-  "sha256": "81f1d3b5e0edea18d262175505b8cb377c543b2b985d13a0aca3e3fd93b7f47b",
-  "noter": "Maskiner sat op foer synkroniseringen fandtes faar nu adresserne indbygget, saa noeglen kan tages i brug."
+  "version": "1.7.3",
+  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.7.3/bv-etiket-app-1.7.3.zip",
+  "sha256": "befe2977ed1b1f5bc4535e9dd4d11181c572ddcf366f8a4217aa2c46a2eaf45e",
+  "noter": "Felt A viser kun plantens latinske navn - sorten skaeres fra."
 }
