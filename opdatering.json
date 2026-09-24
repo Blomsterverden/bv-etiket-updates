@@ -1,6 +1,6 @@
 {
-  "version": "1.7.6",
-  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.7.6/bv-etiket-app-1.7.6.zip",
-  "sha256": "e95f21bdc5c40bd51a84cf6c1ee9d048335f714793dcfc2c652219beec882b47",
-  "noter": "Etikettens navnelinje er nu latinsk slaegt + sort, saa den forstaas ens i Danmark, Sverige og Finland."
+  "version": "1.8.0",
+  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.8.0/bv-etiket-app-1.8.0.zip",
+  "sha256": "f641b3bd59935d31c051525a71a790e5e24600b59787e6067e51063a6e3913b0",
+  "noter": "Leverancer: se hvad der kommer hjem i Truck #1, og hvor mange etiketter der er printet af hver sort."
 }
