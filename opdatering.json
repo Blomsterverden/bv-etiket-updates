@@ -1,6 +1,6 @@
 {
-  "version": "1.8.0",
-  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.8.0/bv-etiket-app-1.8.0.zip",
-  "sha256": "f641b3bd59935d31c051525a71a790e5e24600b59787e6067e51063a6e3913b0",
-  "noter": "Leverancer: se hvad der kommer hjem i Truck #1, og hvor mange etiketter der er printet af hver sort."
+  "version": "1.8.1",
+  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.8.1/bv-etiket-app-1.8.1.zip",
+  "sha256": "a1f84875db6073f09023adbe4060a6ee80b60f3026a7489f107f141ff7b66b89",
+  "noter": "Print bekraeftes altid foerst. Resten printer hele det, der mangler, i et job."
 }
