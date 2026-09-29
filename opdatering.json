@@ -1,6 +1,6 @@
 {
-  "version": "1.8.1",
-  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.8.1/bv-etiket-app-1.8.1.zip",
-  "sha256": "a1f84875db6073f09023adbe4060a6ee80b60f3026a7489f107f141ff7b66b89",
-  "noter": "Print bekraeftes altid foerst. Resten printer hele det, der mangler, i et job."
+  "version": "1.9.0",
+  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.9.0/bv-etiket-app-1.9.0.zip",
+  "sha256": "3963ea28016169fa8fcd205c6ecba71df2d5c9a71a9ac16ee3a1f8abf810340f",
+  "noter": "Plantepasset: A, B, C og D paa een linje"
 }
