@@ -1,6 +1,6 @@
 {
-  "version": "1.10.0",
-  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.10.0/bv-etiket-app-1.10.0.zip",
-  "sha256": "8b873b4bd33f9fd4e618617d9cccad16258251905f31d623935404c9ab0266ab",
-  "noter": "Felt C skal udfyldes: vaelg levering, foelgeseddel fra leverancearket"
+  "version": "1.11.0",
+  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.11.0/bv-etiket-app-1.11.0.zip",
+  "sha256": "e1f76804a4010ed2e9b864710f65803d0a370ea94bc4f71227d5572990cd1793",
+  "noter": "Stikketiket kan vaelges: egen printer, vend tryk 180 grader"
 }
