@@ -1,6 +1,6 @@
 {
-  "version": "1.11.2",
-  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.11.2/bv-etiket-app-1.11.2.zip",
-  "sha256": "e97ffa12fbcc246722c1a3f7b6d39ad8fe75146e2efa121246c45d0075b363e6",
-  "noter": "Stik: layout over perforeringen, flyt tryk op/ned"
+  "version": "1.12.0",
+  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.12.0/bv-etiket-app-1.12.0.zip",
+  "sha256": "be36e4b106fa0c36a8a402baf1091aebac67c814ee469316315f116ade090f1c",
+  "noter": "Database hentes hvert 10. min, foelg med hjemmefra"
 }
