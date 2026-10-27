@@ -1,6 +1,6 @@
 {
-  "version": "1.12.0",
-  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.12.0/bv-etiket-app-1.12.0.zip",
-  "sha256": "be36e4b106fa0c36a8a402baf1091aebac67c814ee469316315f116ade090f1c",
-  "noter": "Database hentes hvert 10. min, foelg med hjemmefra"
+  "version": "1.12.1",
+  "zip": "https://github.com/Blomsterverden/bv-etiket-updates/releases/download/v1.12.1/bv-etiket-app-1.12.1.zip",
+  "sha256": "d0269bed282bdf0f2a645cebcedc7a2c5f0ac20e42f17b9ae22b81d408b2befd",
+  "noter": "Felt C: foerste parti vaelges af sig selv"
 }
